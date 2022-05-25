@@ -1,4 +1,5 @@
-/node_modules/
-/.next/
-/rootCerts.pem
-/.netlify/
+node_modules
+.next
+rootCerts.pem
+.netlify
+.DS_Store
