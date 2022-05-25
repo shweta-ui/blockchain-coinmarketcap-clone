@@ -26,12 +26,12 @@ Install Packages:
 npx create-next-app@latest -e with-tailwindcss coinmarketcap-clone
 
 Run Project:
-yarn dev
+npm dev
 
 Install netlify cli for continuous deplyment:
-yarn add netlify-cli -g
+npm install netlify-cli -g
 
 Run netlify:
 ntl dev
 
-test
+test 2
